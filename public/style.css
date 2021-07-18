@@ -108,6 +108,7 @@ video{
   color: #F5F5F5;
 }
 
-.unmute{
+.unmute, .stop{
   color: #CC3B33;
 }
+
